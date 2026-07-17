@@ -65,11 +65,12 @@ hobbies: [Working Out, Kickboxing, Card Games, Gaming, Traveling]
 
 | Project | What it is | Stack |
 |---|---|---|
-| **TCGVerify** | CV system for trading card authentication — 99.2% accuracy on a custom CNN image classifier. | PyTorch, OpenCV |
-| **EuroLeague Analytics** | End-to-end SQL analytics pipeline: Python ETL into a PostgreSQL star schema with a Tableau dashboard on top (win%, rolling form, strength-vs-luck scatter). | Python, PostgreSQL, Tableau |
-| **CSV Analysis CLI Tool** | Python CLI that validates dataset integrity and generates quality scores across columns. | Python, Pandas, NumPy |
-| **Python Web Crawler** | Configurable crawler for scraping and structuring page content across sites. | Python |
-| **Battleship** | Real-time multiplayer Battleship over WebSockets with independent per-player boards. | Node.js, HTML, CSS |
+| **[TCGVerify](https://github.com/matvuc/TCGVerify)** | CV system for trading card authentication — 99.2% accuracy on a custom CNN image classifier. | PyTorch, OpenCV |
+| **[EuroLeague Analytics](https://github.com/matvuc/euroleague-analytics)** | End-to-end SQL analytics pipeline: Python ETL into a PostgreSQL star schema with a Tableau dashboard on top (win%, rolling form, strength-vs-luck scatter). | Python, PostgreSQL, Tableau |
+| **[CSV Analysis CLI Tool](https://github.com/matvuc/Dataset-Integrity-Analysis-CLI-Tool)** | Python CLI that validates dataset integrity and generates quality scores across columns. | Python, Pandas, NumPy |
+| **[Python Web Crawler](https://github.com/matvuc/python-web-crawler)** | Configurable crawler for scraping and structuring page content across sites. | Python |
+| **[Battleship](https://github.com/matvuc/Battleship-final)** | Real-time multiplayer Battleship over WebSockets with independent per-player boards. | Node.js, HTML, CSS |
+| **[MNIST Dataset Analysis](https://github.com/matvuc/MNIST-Dataset-Analysis-main)** | Investigates four machine learning models — MLP, CNN, RNN, and KNN — on the MNIST digit classification task. | Python, PyTorch, Jupyter Notebook |
 
 ---
 
